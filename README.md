@@ -29,7 +29,7 @@ This project presents an interactive data visualization using D3.js, focusing on
 
 1. **Clone the Repository**: Clone or download the project repository to your local machine.
     ```
-    git clone <repository-url>
+    git clone https://github.com/AviMehta90/Alphabet-Distribution-Visualizer.git
     ```
 
 2. **Open `index.html`**: Navigate to the project directory and open the `index.html` file in a web browser.
